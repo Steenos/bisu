@@ -206,13 +206,13 @@ const BisukettoPugPage: React.FC = () => {
           </List>
         </ListContainer>
         <SocialMedia>
-          <SocialLink href="https://tpump.fun/" target="_blank">
+          <SocialLink href="https://dexscreener.com/moonshot" target="_blank">
             Moonshot
           </SocialLink>
-          <SocialLink href="https://twitter.com/yourtwitter" target="_blank">
+          <SocialLink href="https://twitter.com/bisuketto_sol" target="_blank">
             Twitter
           </SocialLink>
-          <SocialLink href="https://yourwebsite.com" target="_blank">
+          <SocialLink href="https://bisuketto.vercel.app" target="_blank">
             Telegram
           </SocialLink>
         </SocialMedia>
