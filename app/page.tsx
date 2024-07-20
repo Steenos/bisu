@@ -212,7 +212,7 @@ const BisukettoPugPage: React.FC = () => {
           <SocialLink href="https://twitter.com/bisuketto_sol" target="_blank">
             Twitter
           </SocialLink>
-          <SocialLink href="https://bisuketto.vercel.app" target="_blank">
+          <SocialLink href="https://t.me/bisukettocoin" target="_blank">
             Telegram
           </SocialLink>
         </SocialMedia>
